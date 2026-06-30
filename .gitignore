@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.certs/
+*.log
+.ipynb_checkpoints/
+chroma/
+chroma_db/
+hf_cache/
+vectorstore/
